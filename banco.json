@@ -1,0 +1,46 @@
+{
+  "receitas": [
+    {
+      "id": "1",
+      "nome": "Bolo de Cenoura e chocolate",
+      "ingredientes": [
+        { "nome": "Cenoura" },
+        { "nome": "Ovo" },
+        { "nome": "Farinha" },
+        { "nome": "Açucar" },
+        { "nome": "Fermento" }
+      ],
+      "modo": [
+        "Bater tudo no liquidificador exceto o fermento",
+        "Acrescentar o fermento e misturar",
+        "Assar em forno médio por 40 minutos"
+      ]
+    },
+    {
+      "id": "2",
+      "nome": "Arroz Carreteiro",
+      "ingredientes": [
+        { "nome": "Ovo" },
+        { "nome": "Carne" },
+        { "nome": "Arroz" },
+        { "nome": "Sal e temperos" }
+      ],
+      "modo": [
+        "Frite a carne temperada e reserve",
+        "Refoque a cebola e o alho e o arroz",
+        "junte a carne, molho de tomate e água",
+        "cozinhe em fogo médio por 25 minutos acrescentando água se necessário"
+      ]
+    }
+  ],
+  "ingredientes": [
+    { "nome": "Cenoura" },
+    { "nome": "Ovo" },
+    { "nome": "Farinha" },
+    { "nome": "Açucar" },
+    { "nome": "Fermento" },
+    { "nome": "Carne" },
+    { "nome": "Arroz" },
+    { "nome": "Sal e temperos" }
+  ]
+}
